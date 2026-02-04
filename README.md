@@ -1,5 +1,3 @@
-# 🛋️ Estofaria — Sistema Web Completo
-
 Sistema de site + painel administrativo para estofaria com portfolio, agenda, simulador de tecido com IA e notificações.
 
 ---
@@ -144,7 +142,7 @@ Usa a API da **OpenAI** (GPT-4o + DALL·E 3):
 3. A descrição é usada pelo DALL·E 3 para gerar uma imagem realista
 4. A imagem gerada é exibida ao lado das originais
 
-> ⚠️ Cada simulação consome tokens da OpenAI. Custo médio: ~$0.05–0.10 por simulação.
+> OBS: Cada simulação consome tokens da OpenAI. Custo médio: ~$0.05–0.10 por simulação.
 
 ---
 
